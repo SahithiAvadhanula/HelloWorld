@@ -11,7 +11,7 @@ namespace Swiss
     {
         public static void main()
         {
-            System.Console.WriteLine("vandana vana");
+            System.Console.WriteLine("Sahithi");
         }
     }
 }
